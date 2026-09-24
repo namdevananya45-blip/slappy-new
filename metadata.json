@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Arcade & 1-Shot AI Studio Prompt Engine",
+  "description": "Play the classic Flappy Bird arcade game in your browser and inspect/copy the exact prompt engineered to generate this complete game in Google AI Studio in one go.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
